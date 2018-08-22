@@ -1,11 +1,11 @@
 fastrand
 --------
 
-[![GoDoc](https://godoc.org/github.com/NebulousLabs/fastrand?status.svg)](https://godoc.org/github.com/NebulousLabs/fastrand)
-[![Go Report Card](http://goreportcard.com/badge/github.com/NebulousLabs/fastrand)](https://goreportcard.com/report/github.com/NebulousLabs/fastrand)
+[![GoDoc](https://godoc.org/github.com/HyperspaceApp/fastrand?status.svg)](https://godoc.org/github.com/HyperspaceApp/fastrand)
+[![Go Report Card](http://goreportcard.com/badge/github.com/HyperspaceApp/fastrand)](https://goreportcard.com/report/github.com/HyperspaceApp/fastrand)
 
 ```
-go get github.com/NebulousLabs/fastrand
+go get github.com/HyperspaceApp/fastrand
 ```
 
 `fastrand` implements a cryptographically secure pseudorandom number generator.
